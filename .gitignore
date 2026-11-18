@@ -1,0 +1,11 @@
+# Local databases (created automatically on first run)
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
